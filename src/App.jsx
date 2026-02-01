@@ -1,3 +1,4 @@
+import './App.css';
 import WeatherForcast from "./components/WeatherForecast/WeatherForecast";
 
 const weatherForecasts = [
