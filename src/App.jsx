@@ -1,3 +1,4 @@
+import './index.css';
 import './App.css';
 import WeatherForcast from "./components/WeatherForecast/WeatherForecast";
 
